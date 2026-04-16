@@ -41,9 +41,9 @@ python quiz.py
 
 ---
 ## Screenshots
-<img src="screenshorts/Screenshot 2026-04-16 162152.png" width="800">
+<img src="screenshorts/quiz_1.png" width="800">
 <br>
-<img src="screenshorts/Screenshot 2026-04-16 162214.png" width="800">
+<img src="screenshorts/quiz_2.png" width="800">
 <br>
-<img src="screenshorts/Screenshot 2026-04-16 162413.png" width="800">
+<img src="screenshorts/quiz_3.png" width="800">
 
