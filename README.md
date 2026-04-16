@@ -25,16 +25,16 @@ This project is created for practice to understand GUI development, event handli
 ## 🚀 How to Run
 
 Make sure Python is installed on your system.
-1. Clone this repository:
+### 1. Clone this repository:
 
 ```bash
 git clone https://github.com/your-username/quiz-app.git
 ```
-2. Navigate to the project folder:
+### 2. Navigate to the project folder:
 ```
 cd quiz-app
 ```
-3. Run the application:
+### 3. Run the application:
 ```
 python quiz.py
 ```
@@ -43,7 +43,7 @@ python quiz.py
 ## Screenshots
 <img src="screenshorts/Screenshot 2026-04-16 162152.png" width="800">
 <br>
-<img src="screenshorts/Screenshot 2026-04-16 162214.png.png" width="800">
+<img src="screenshorts/Screenshot 2026-04-16 162214.png" width="800">
 <br>
 <img src="screenshorts/Screenshot 2026-04-16 162413.png" width="800">
 
